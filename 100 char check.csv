@@ -1,0 +1,26 @@
+pNumber,price,manufacturer,pcomment
+1,6.25,"ABC Pty Ltd",NULL
+2,3.15,"ABC Pty Ltd",NULL
+3,1.25,"ABC Pty Ltd",NULL
+4,7.95,"ABC Pty Ltd",NULL
+5,10.75,"BBC Pty Ltd","Like it"
+6,36.85,"ABC Pty Ltd",NULL
+7,5.15,"ABC Pty Ltd",NULL
+8,6.35,"CBC Pty Ltd",Perfect
+9,2.15,"ABC Pty Ltd",NULL
+10,75.95,"BBC Pty Ltd",NULL
+11,8.95,"ABC Pty Ltd",NULL
+12,1.95,"BBC Pty Ltd",NULL
+13,4.55,"ABC Pty Ltd",NULL
+14,10.65,"ABC Pty Ltd",NULL
+15,2.45,"CBC Pty Ltd","Great value"
+16,15.15,"ABC Pty Ltd",NULL
+17,11.95,"ABC Pty Ltd",NULL
+18,13.95,"ABC Pty Ltd",NULL
+19,21.75,"CBC Pty Ltd",NULL
+20,30.65,"ABC Pty Ltd",NULL
+21,25.35,"BBC Pty Ltd",NULL
+22,12.15,"ABC Pty Ltd",NULL
+23,16.35,"ABC Pty Ltd",NULL
+25,99999.99,"ABC Pty Ltd",NULL
+26,12.15,"ABC Pty Ltd","this is to test that the pcomment can stoer up to one hundreds of stings"

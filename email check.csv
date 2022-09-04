@@ -1,0 +1,2 @@
+cNumber,fname,lname,phone,email,fax,country,state,city,pcode,street,houseNumber,flatNumber
+2,JOHN,BLACK,63569784,john123@gmail.com,NULL,AUSTRALIA,VIC,GEELONG,3220,"VICTORIA ST.",23,NULL

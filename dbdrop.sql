@@ -1,0 +1,6 @@
+DROP TABLE PP;
+DROP TABLE Cevaluation;
+DROP TABLE Pbasket;
+DROP TABLE Customer;
+DROP TABLE Keyword;
+DROP TABLE Product;
